@@ -1,0 +1,39 @@
+.big_container{
+    /* border: solid 1px red; */
+    /* height: 300px; */
+    width: 85%;
+    margin-left: 10%;
+    /* height: 600px; */
+}
+.second_container{
+    /* border: solid 1px blue; */
+    display: flex;
+}
+.third_container{
+    /* border: solid 1px black; */
+    width: 65%;
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+}
+.third_container>div>img{
+    /* border: solid palevioletred 1px; */
+    height: 13.500rem;
+    width: 15.1rem;
+    margin-left: 5px;
+}
+.fourth_container>img{
+    height: 27.21rem;
+    /* margin-right: 10px */
+    margin-left: 5px;
+}
+.shopfeed{
+    font-size: 2.1rem;
+    text-align: center;
+}
+.tagus{
+    text-align: center;
+}
+.followus{
+    font-size: 1.3rem;
+    text-align: center;
+}
