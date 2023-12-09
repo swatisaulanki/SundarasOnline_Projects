@@ -15,7 +15,7 @@ const Navbar = () => {
       <div style={{display:"flex",height:"100px",alignItems:"center",justifyItems:"center"}} className='navbar'>
         <div style={{marginLeft:"12%",display:"flex",alignItems:"center",justifyItems:"center"}} className='navin'>
           <Link to='/'>
-          <p style={{fontWeight:'300'}}>Sundara</p>
+          <p style={{fontWeight:'300'}}>Sundaras</p>
           </Link>
           <NavLink to='/' style={({isActive})=>{return {textDecoration : isActive ? "underline":"none"}}}>
           <p className='.p' style={{marginLeft:"60px"}}>Home</p>

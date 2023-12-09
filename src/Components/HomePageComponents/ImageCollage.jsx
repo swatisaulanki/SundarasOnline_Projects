@@ -8,9 +8,9 @@ export const ImageCollage = () => {
               <div>
                   <div className='shopfeed'>SHOP THE FEED</div>
                   <br />
-                  <div><p className='tagus'>Tag us on @SundaraShop or #Sundara</p></div>
+                  <div><p className='tagus'>Tag us on @SundarasShop or #Sundaras</p></div>
                   <br /><br /><br />
-                  <div className='followus'>Follow us on instagram @sundarashop</div>
+                  <div className='followus'>Follow us on instagram @sundarasshop</div>
               </div>
               <br /><br />
               <div className='big_container'>

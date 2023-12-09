@@ -15,7 +15,7 @@ const PaymentMain = () => {
       <div className={styles.PaymentInfo}>
         <div className={styles.PaymentInfofirst}>
           <div className={styles.firstLhead}>
-            <p>SUNDARA</p>
+            <p>SUNDARAS</p>
           </div>
 
           <div className={styles.InfoSecondHead}>

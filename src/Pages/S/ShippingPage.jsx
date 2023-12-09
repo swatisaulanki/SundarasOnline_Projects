@@ -15,7 +15,7 @@ const ShippingPage = () => {
       <div className={styles.PaymentInfo}>
         <div className={styles.PaymentInfofirst}>
           <div className={styles.firstLhead}>
-            <p>SUNDARA</p>
+            <p>SUNDARAS</p>
           </div>
 
           

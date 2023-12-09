@@ -84,7 +84,7 @@ const handleCartClick=()=>{
 {/*  Details Section */}
 
         <div className='product_details_section'>
-      <p className='small_top_logo'>SUNDARA</p>
+      <p className='small_top_logo'>SUNDARAS</p>
       <div className='name_title'>{currentProduct.name}</div>
       <div className='rating_div'> 
         <AiOutlineStar className='rating_star'/> 

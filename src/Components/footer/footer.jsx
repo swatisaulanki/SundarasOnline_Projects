@@ -20,7 +20,7 @@ let Footer = () => {
                     <p id={styles.needtotalk}>
                         Need to talk? Reach us via email, phone or text!
                     </p>
-                    <p id={styles.emailpara}>Email: Customerservice@Sundara.com</p>
+                    <p id={styles.emailpara}>Email: Customerservice@Sundaras.com</p>
                     <p id={styles.phonepara}>Phone: (443) 500-1200</p>
                     <p id={styles.textmsgpara}>**Msg &data rates may apply</p>
                 </div>
@@ -116,7 +116,7 @@ let Footer = () => {
                     </div>
                 </div>
             </div>
-            <p id={styles.copyright}>&copy; 2023, <span>Sundara</span> Powered by <span> Students</span></p>
+            <p id={styles.copyright}>&copy; 2023, <span>Sundaras</span> Powered by <span> Students</span></p>
         </div>);
 };
 
